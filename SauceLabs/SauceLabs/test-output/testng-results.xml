@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-19T16:21:34 IST" name="Default suite" finished-at="2024-01-19T16:21:38 IST" duration-ms="3837">
+    <groups>
+    </groups>
+    <test started-at="2024-01-19T16:21:34 IST" name="Default test" finished-at="2024-01-19T16:21:38 IST" duration-ms="3837">
+      <class name="tests.CreateOrder">
+        <test-method signature="OrderItem()[pri:0, instance:tests.CreateOrder@35ef1869]" started-at="2024-01-19T16:21:34 IST" name="OrderItem" finished-at="2024-01-19T16:21:38 IST" duration-ms="3793" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OrderItem -->
+      </class> <!-- tests.CreateOrder -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
